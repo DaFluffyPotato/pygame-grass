@@ -1,4 +1,4 @@
-### An efficient pure Python/Pygame grass module written by DaFluffyPotato. Feel free to use however you'd like.
+### An efficient pure Python/Pygame grass module. Feel free to use however you'd like.
 
 Please see grass_demo.py for an example of how to use GrassManager.
 
