@@ -1,5 +1,7 @@
 ### An efficient pure Python/Pygame grass module. Feel free to use however you'd like.
 
+![](https://i.imgur.com/nfHCMfb.gif)
+
 Please see grass_demo.py for an example of how to use GrassManager.
 
 Important functions and objects:
